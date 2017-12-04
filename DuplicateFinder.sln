@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateFinder", "DuplicateFinder\DuplicateFinder.csproj", "{CFBC9EE1-0943-414E-809B-48229B9F90D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryCrawler", "DirectoryCrawler\DirectoryCrawler.csproj", "{3F9A0A49-7F15-476F-8219-EA58DAF7D0A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparers", "Comparers\Comparers.csproj", "{106845DC-E4DC-430C-BBE2-EBF4F83FCD46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashing", "Hashing\Hashing.csproj", "{48D5CBA5-8F35-44C5-A95E-1825E7C5B810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restorer", "Restorer\Restorer.csproj", "{10A4EBD4-D05C-4EE9-B96F-A66243AFE17E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestRestorer", "ConsoleTestRestorer\ConsoleTestRestorer.csproj", "{7A9CDDB3-064E-49AA-A3ED-FCF7149188A2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBC9EE1-0943-414E-809B-48229B9F90D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBC9EE1-0943-414E-809B-48229B9F90D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBC9EE1-0943-414E-809B-48229B9F90D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBC9EE1-0943-414E-809B-48229B9F90D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9A0A49-7F15-476F-8219-EA58DAF7D0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9A0A49-7F15-476F-8219-EA58DAF7D0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9A0A49-7F15-476F-8219-EA58DAF7D0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9A0A49-7F15-476F-8219-EA58DAF7D0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106845DC-E4DC-430C-BBE2-EBF4F83FCD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106845DC-E4DC-430C-BBE2-EBF4F83FCD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106845DC-E4DC-430C-BBE2-EBF4F83FCD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106845DC-E4DC-430C-BBE2-EBF4F83FCD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D5CBA5-8F35-44C5-A95E-1825E7C5B810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D5CBA5-8F35-44C5-A95E-1825E7C5B810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D5CBA5-8F35-44C5-A95E-1825E7C5B810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D5CBA5-8F35-44C5-A95E-1825E7C5B810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A4EBD4-D05C-4EE9-B96F-A66243AFE17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A4EBD4-D05C-4EE9-B96F-A66243AFE17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A4EBD4-D05C-4EE9-B96F-A66243AFE17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A4EBD4-D05C-4EE9-B96F-A66243AFE17E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9CDDB3-064E-49AA-A3ED-FCF7149188A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9CDDB3-064E-49AA-A3ED-FCF7149188A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9CDDB3-064E-49AA-A3ED-FCF7149188A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9CDDB3-064E-49AA-A3ED-FCF7149188A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

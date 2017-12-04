@@ -1,0 +1,4 @@
+C:\Users\dennis.devey\Desktop\DupeFinder\Comparers\bin\Release\Comparers.dll
+C:\Users\dennis.devey\Desktop\DupeFinder\Comparers\bin\Release\Comparers.pdb
+C:\Users\dennis.devey\Desktop\DupeFinder\Comparers\obj\Release\Comparers.dll
+C:\Users\dennis.devey\Desktop\DupeFinder\Comparers\obj\Release\Comparers.pdb

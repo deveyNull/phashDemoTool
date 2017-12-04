@@ -1,0 +1,10 @@
+C:\Users\dennis.devey\Desktop\DupeFinder\Hashing\bin\Debug\Hashing.dll
+C:\Users\dennis.devey\Desktop\DupeFinder\Hashing\bin\Debug\Hashing.pdb
+C:\Users\dennis.devey\Desktop\DupeFinder\Hashing\obj\Debug\Hashing.csprojResolveAssemblyReference.cache
+C:\Users\dennis.devey\Desktop\DupeFinder\Hashing\obj\Debug\Hashing.dll
+C:\Users\dennis.devey\Desktop\DupeFinder\Hashing\obj\Debug\Hashing.pdb
+C:\Users\dennis.devey\Desktop\deduplicator\Hashing\bin\Debug\Hashing.dll
+C:\Users\dennis.devey\Desktop\deduplicator\Hashing\bin\Debug\Hashing.pdb
+C:\Users\dennis.devey\Desktop\deduplicator\Hashing\obj\Debug\Hashing.csprojResolveAssemblyReference.cache
+C:\Users\dennis.devey\Desktop\deduplicator\Hashing\obj\Debug\Hashing.dll
+C:\Users\dennis.devey\Desktop\deduplicator\Hashing\obj\Debug\Hashing.pdb
