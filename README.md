@@ -1,8 +1,6 @@
 <h1> DeDuplicator </h1>
 <h2> A Proof of Concept That Demonstrates Various Hashing Functions</h2>
 
-<p> The UI and backend is borrowed from www.codeproject.com/Articles/28512/Duplicate-Files-Finder by eRRaTuM. I implemented various hashing functions to demonstrate their superiority over MD5. </p>
-
 <p> Among numerous optimizations and cosmetic changes, the bulk of the work is in Hashing/PerceptualHashes.cs. Contained are functions for: </p>
 <ul> 
 <li> MD5 </li>
