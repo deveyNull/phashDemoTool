@@ -21,11 +21,14 @@ Contained are functions for:
 Average hash and gradient hashing are file format agnostic, resolution-invariant, scale-invariant, and color-invariant. Both functions come in a 16 and 64 byte length version. 16 is better for discovery, while 64 bytes are better for eliminating false positives as the resolution is greater. Gradient hashes have a lower false positive rate than average hashes, but do not find as many matches. If you make the shape of a gradient hash more complex than a simple left to right the entropy will be higher and the false positive rate will decrease significantly. 
 
 ### Instructions: 
-1. Download the tool from (https://github.com/deveyNull/phashDemoTool/blob/master/precompiledTool.zip) or compile from source. 
+1. Download the tool from https://github.com/deveyNull/phashDemoTool/blob/master/precompiledTool.zip?raw=true or compile from source. 
 2. Unzip the tool and run setup.exe.
+
+![alt text](https://github.com/deveyNull/phashDemoTool/blob/master/DuplicateFinder/example.JPG "Tool usage")
+
 3. After the tool opens, load the path to the directory 'files' that can be found in the zip.
-4. Go to the bar that is labeled "\*.jpg" and change it to "\*.\*". This will cause the tool to search for all matches across all file formats.
+4. Go to the bar that is labeled "\*.jpg" and change it to "\*.\*". This will cause the tool to search for all matches across all file formats. 
 5. Click Go and the tool will run, finding all matches and displaying them below. Double click the file names in order to open them. 
 6. In order to change the hashing method, click the button for whatever type you would like in the top right.
 
-**Note:** While I usually like to have the right license, I'm not in the mood to figure out where [CPOL license](https://www.codeproject.com/info/cpol10.aspx) + [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html) + written on .gov computer + while not a paid employee falls so leave me alone internet police. Props to eRRaTuM and jforshee.
+**Note:** While I usually like to have the right license, I'm not in the mood to figure out where [CPOL license](https://www.codeproject.com/info/cpol10.aspx) + [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html) + written on .gov computer + while not a paid employee falls so leave me alone internet police. Thanks eRRaTuM and jforshee.
