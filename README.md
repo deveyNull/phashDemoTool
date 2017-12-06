@@ -22,6 +22,6 @@ Instructions:
 1. Download the tool from (https://github.com/deveyNull/phashDemoTool/blob/master/precompiledTool.zip) or compile from source. 
 2. Unzip the tool and run setup.exe.
 3. After the tool opens, load the path to the directory 'files' that can be found in the zip.
-4. Go to the bar that is labeled "*.jpg" and change it to "*.*". This will cause the tool to search for all matches across all file formats.
+4. Go to the bar that is labeled "\*.jpg" and change it to "\*.\*". This will cause the tool to search for all matches across all file formats.
 5. Click Go and the tool will run, finding all matches and displaying them below. Double click the file names in order to open them. 
 6. In order to change the hashing method, click the button for whatever type you would like in the top right.
