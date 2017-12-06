@@ -1,7 +1,7 @@
 # Perceptual Hashing DeDuplicator Demo
 ### Proof of Concept That Demonstrates Various Fuzzy Hashing Functions
 
-Credit for the UI and backend goes out to www.codeproject.com/Articles/28512/Duplicate-Files-Finder by eRRaTuM. All I did was integrate alternate functions from [jforshee](https://github.com/jforshee/ImageHashing) for identifying duplicate files and make some minor cosmetic and performance modifications. 
+Credit for the UI and backend goes out to www.codeproject.com/Articles/28512/Duplicate-Files-Finder by eRRaTuM. I integrated alternate functions from [jforshee](https://github.com/jforshee/ImageHashing) for identifying duplicate files, built the binary perceptual hashing functions, and made some minor cosmetic and performance modifications. 
 
 This tool is a very functional program that can be used to find duplicate files on a computer, but is really an introduction to the various types of perceptual hashes that I made as a demonstration while I was an indentured servant for DoD Cyber Crime. Perceptual hashes are a "fingerprint" of a file which reflect what that file looks like so that similar files have similar hashes. This differs from cryptographic hashing which returns entirely different hashes if a file has a single change. Perceptual hashing's robustness against minor changes allows it to be applied to any use cases where a similar, but not exact match needs to be found and various functions work better for different use cases, and this tool is meant to demonstrate them. 
 
